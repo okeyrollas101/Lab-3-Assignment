@@ -1,0 +1,16 @@
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\bin\Debug\net5.0\Lab 3 Assignment.exe
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\bin\Debug\net5.0\Lab 3 Assignment.deps.json
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\bin\Debug\net5.0\Lab 3 Assignment.runtimeconfig.json
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\bin\Debug\net5.0\Lab 3 Assignment.runtimeconfig.dev.json
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\bin\Debug\net5.0\Lab 3 Assignment.dll
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\bin\Debug\net5.0\ref\Lab 3 Assignment.dll
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\bin\Debug\net5.0\Lab 3 Assignment.pdb
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\obj\Debug\net5.0\Lab 3 Assignment.csprojAssemblyReference.cache
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\obj\Debug\net5.0\Lab 3 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\obj\Debug\net5.0\Lab 3 Assignment.AssemblyInfoInputs.cache
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\obj\Debug\net5.0\Lab 3 Assignment.AssemblyInfo.cs
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\obj\Debug\net5.0\Lab 3 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\obj\Debug\net5.0\Lab 3 Assignment.dll
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\obj\Debug\net5.0\ref\Lab 3 Assignment.dll
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\obj\Debug\net5.0\Lab 3 Assignment.pdb
+C:\Users\Okey\OneDrive\Desktop\c# class\Lab 3 Assignment\obj\Debug\net5.0\Lab 3 Assignment.genruntimeconfig.cache
